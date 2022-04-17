@@ -8,7 +8,7 @@ public class LojinhaApp {
 
 
      meuProduto.setNome("Play Station 4");
-     meuProduto.setValor(79.99);
+     meuProduto.setValor(0.01);
      meuProduto.setMarca("Sony");
      meuProduto.setTamanho("Medio");
      meuProduto.setItensInclusos("2 controles e 3 jogos");
